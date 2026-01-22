@@ -20,9 +20,13 @@ The dashboard helps answer key business questions such as:
 
 '''
 ├── images/
+
 │ ├── sales_all.jpg
+
 │ ├── sales_female.jpg
+
 │ ├── sales_male.jpg
+
 │
 └── README.md
 '''
