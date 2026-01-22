@@ -18,19 +18,14 @@ The dashboard helps answer key business questions such as:
 ---
 ## 📂 Repository Structure
 
-'''
+```
 ├── images/
-
 │ ├── sales_all.jpg
-
 │ ├── sales_female.jpg
-
 │ ├── sales_male.jpg
-
 │
 └── README.md
-'''
----
+```
 ## 📈 Dashboard Preview
 
 ### 🔹 Overall Sales Dashboard
