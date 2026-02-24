@@ -1,11 +1,13 @@
-# 🇧🇩 Bangladesh Crime Statistics 2025
+# Bangladesh Crime Statistics 2025
 
 A comprehensive crime data analysis project covering police unit-wise monthly crime statistics across Bangladesh for 2025. Built with **MySQL** for data storage and analysis, and **Power BI** for interactive dashboards.
 
 ---
+## Data Source: https://www.police.gov.bd/en/january_2020
+
 
 ## 📊 Dashboard Preview
-
+!crime.jpg
 > Power BI Dashboard showing crime distribution across Metropolitan Police units and monthly trends.
 
 Key highlights from the dashboard:
@@ -24,8 +26,6 @@ bangladesh-crime-stats-2025/
 ├── crime_statistics.sql       # Full SQL script (schema + queries)
 ├── crime_dashboard.pbix       # Power BI dashboard file
 ├── README.md                  # Project documentation
-└── data/
-    └── crime_data.csv         # Raw data (optional)
 ```
 
 ---
@@ -395,6 +395,8 @@ GROUP BY month;
 ```
 
 ---
+## DashBoard
+!crime.jpg
 
 ## 📈 Crime Type Summary (from Dashboard)
 
@@ -415,66 +417,9 @@ GROUP BY month;
 
 ---
 
-## 🏛️ Metropolitan Police Units
 
-| Unit | Full Name |
-|---|---|
-| DMP | Dhaka Metropolitan Police |
-| CMP | Chattogram Metropolitan Police |
-| GMP | Gazipur Metropolitan Police |
-| RMP | Rajshahi Metropolitan Police |
-| KMP | Khulna Metropolitan Police |
-| SMP | Sylhet Metropolitan Police |
-| BMP | Barishal Metropolitan Police |
-| RPMP | Rangpur Metropolitan Police |
 
----
 
-## 🚀 Getting Started
-
-### Prerequisites
-- MySQL 8.0+
-- Power BI Desktop (for dashboard)
-
-### Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/bangladesh-crime-stats-2025.git
-   cd bangladesh-crime-stats-2025
-   ```
-
-2. **Import the database**
-   ```bash
-   mysql -u root -p < crime_statistics.sql
-   ```
-
-3. **Run a query**
-   ```bash
-   mysql -u root -p crime_statistics_2025
-   ```
-
-4. **Open the Power BI dashboard**
-   Open `crime_dashboard.pbix` in Power BI Desktop and connect to your local MySQL instance.
-
----
-
-## 🛠️ Tech Stack
-
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=white)
-
----
-
-## 📄 License
-
-This project is for educational and analytical purposes. Data sourced from Bangladesh Police crime records 2025.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
