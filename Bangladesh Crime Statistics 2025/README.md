@@ -7,7 +7,7 @@ A comprehensive crime data analysis project covering police unit-wise monthly cr
 
 
 ## 📊 Dashboard Preview
-!crime.jpg
+!(crime.jpg)
 > Power BI Dashboard showing crime distribution across Metropolitan Police units and monthly trends.
 
 Key highlights from the dashboard:
