@@ -415,5 +415,18 @@ GROUP BY month;
 
 ---
 
+## 🏛️ Metropolitan Police Units
+
+| Unit | Full Name | Total Cases | Notes |
+|---|---|---|---|
+| DMP | Dhaka Metropolitan Police | 18,800 | Largest unit; covers capital — expected to dominate |
+| CMP | Chattogram Metropolitan Police | 4,700 | Port city; second busiest |
+| GMP | Gazipur Metropolitan Police | 2,900 | Industrial zone; rapidly urbanizing |
+| RMP | Rajshahi Metropolitan Police | 2,100 | Northwestern divisional hub |
+| KMP | Khulna Metropolitan Police | 1,800 | Southwestern delta region |
+| SMP | Sylhet Metropolitan Police | 1,800 | Northeastern; near Indian border |
+| BMP | Barishal Metropolitan Police | 1,500 | River delta; southern coastal area |
+| RPMP | Rangpur Metropolitan Police | 900 | Northernmost metro unit; lowest caseload |
+
 
 
