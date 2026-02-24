@@ -8,7 +8,7 @@ A comprehensive crime data analysis project covering police unit-wise monthly cr
 
 ## 📊 Dashboard Preview
 > Power BI Dashboard showing crime distribution across Metropolitan Police units and monthly trends.
-!(crime.jpg)
+![Crime Dashboard](crime.jpg)
 
 Key highlights from the dashboard:
 - **DMP** (Dhaka Metropolitan Police) leads with **18.8K** total cases
